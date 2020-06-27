@@ -1,0 +1,230 @@
+Acinetobacter
+Acne vulgaris
+Actinobacillosis
+Actinobacillus actinomycetemcomitans
+Actinomycosis
+Aeromonas hydrophila
+Afipia felis
+Alcaligenes xylosoxidans
+Anthrax
+Arcanobacterium haemolyticum
+Bacillary dysentery
+Bacillus abortus
+Bacillus cereus
+Bacillus licheniformis
+Bacillus subtilis
+Bacterial overgrowth of small intestine
+Bacteroides
+Bacteroides forsythus
+Bartonellosis
+BCG
+Bejel
+Bergeyella zoohelcum
+Bifidobacterium bifidum
+Blind loop syndrome
+Borrelia burgdorferi
+Botryomycosis
+Botulism
+Boutonneuse fever
+Brazilian purpuric fever
+Breast abscess
+Brucellosis
+Burkholderia cepacia
+Campylobacter fetus
+Campylobacter jejuni
+Capnocytophaga canimorsus
+Cardiobacterium hominis
+Cat scratch fever
+Chancroid
+Chlamydia trachomatis
+Chlamydophila pneumoniae
+Cholera
+Citrobacter freundii
+Clostridium novyi
+Clostridium perfringens
+Clostridium septicum
+Clostridium sordellii
+Clostridium tetani
+Congenital listeriosis
+Delftia acidovorans
+Dental sepsis
+Dermatophilus congolensis
+Diphtheria
+Ecthyma
+Edwardsiella
+Ehrlichia ewingii
+Eikenella corrodens
+Elizabethkingia meningoseptica
+Enterobacter aerogenes
+Enterobacter sakazakii
+Enterococcus
+Epiglottitis
+Erysipelas
+Erysipeloid of Rosenbach
+Erythrasma
+Escherichia coli
+Fitz-Hugh Curtis syndrome
+Fort Bragg fever
+Fusobacterium necrophorum
+Gardnerella vaginalis
+Gemella haemolysans
+Gemella morbillorum
+Glanders
+Granuloma inguinale
+Haemophilus aegyptius
+Haemophilus aphrophilus
+Haemophilus influenzae
+Haemophilus parainfluenzae
+Haemophilus paraphrophilus
+Hafnia alvei
+Helicobacter heilmannii
+Helicobacter pylori
+Hemorrhagic adrenalitis
+Human granulocytic ehrlichiosis
+Human monocytotropic ehrlichiosis
+Impetigo
+Izumi fever
+Johne disease
+Kingella kingae
+Klebsiella sp
+Kluyvera
+Koch-Weeks conjunctivitis
+Lactobacillus acidophilus
+Lactobacillus casei rhamnosus
+Lactobacillus delbrueckii ss. bulgaricus
+Legionella pneumophila
+Lemierre syndrome
+Lepromatous leprosy
+Leptospira canicola
+Leptospira hebdomadis
+Leptospirosis
+Leptotrichia
+Leuconostoc
+Listeria monocytogenes
+Lymphogranuloma venereum
+Melioidosis
+Micrococcus luteus
+Micrococcus sedentarius
+Mobiluncus
+Moraxella catarrhalis
+Morganella morganii
+Murine typhus
+Mycobacterium abscessus
+Mycobacterium avium-intracellulare
+Mycobacterium bovis
+Mycobacterium chelonei
+Mycobacterium fortuitum
+Mycobacterium gordonae
+Mycobacterium haemophilum
+Mycobacterium kansasii
+Mycobacterium leprae
+Mycobacterium marinum
+Mycobacterium scrofulaceum
+Mycobacterium smegmatis
+Mycobacterium tuberculosis
+Mycobacterium ulcerans
+Mycobacterium vaccae
+Mycobacterium xenopi
+Mycoplasma genitalium
+Mycoplasma hominis
+Mycoplasma pneumoniae
+Nanukayami
+Necrotizing fasciitis
+Neisseria gonorrhoea
+Neisseria meningiditis
+Neisseria sicca
+Nocardia
+Oxalobacter formigenes
+Pasteurella multocida
+Pasteurella species
+Peptostreptococcus
+Pigbel
+Pinta
+Pitted keratolysis
+Pittsburgh pneumonia
+Plesiomonas shigelloides
+Pontiac fever
+Porphyromonas gingivalis
+Prevotella
+Primary syphilis
+Propionibacterium acnes
+Proteus
+Providencia
+Pseudomembranous colitis
+Pseudomonas aeruginosa
+Psittacosis
+Q fever
+Quaternary syphilis
+Queensland tick typhus
+Ralstonia
+Relapsing fever
+Rhinoscleroma
+Rhodococcus equi
+Rickettsia akari
+Rickettsia prowazekii
+Rickettsia siberica
+Rickettsiae
+Rocky Mountain spotted fever
+Rothia dentocariosa
+Salmonella
+Salmonella arizonae
+Salmonella enteritidis
+Salmonella paratyphi
+Salmonella typhi
+Sarcina
+Scarlet fever
+Scrub typhus
+Seal finger
+Secondary syphilis
+Sennetsu fever
+Serratia marcescens
+Shewanella putrefaciens
+Shigella boydii
+Shigella dysenteriae
+Shigella flexneri
+Shigella sonnei
+Southern tick-associated rash illness
+Spirillum minus rat bite fever
+Staphylococcal scalded skin syndrome
+Staphylococcal toxic shock syndrome
+Staphylococcus aureus
+Staphylococcus epidermidis
+Staphylococcus saprophyticus
+Stenotrophomonas maltophilia
+Streptobacillary rat bite fever
+Streptococcus bovis
+Streptococcus Group A
+Streptococcus Group B
+Streptococcus milleri
+Streptococcus mitis
+Streptococcus mutans
+Streptococcus pneumoniae
+Streptococcus salivarius
+Streptococcus sanguis
+Streptococcus sobrinus
+Streptococcus suis
+Streptococcus viridans
+Streptococcus zooepidemicus
+Tabes dorsalis
+Tertiary syphilis
+Trachoma
+Trench fever
+Treponema denticola
+Treponema pallidum
+Trichomycosis axillaris
+Tuberculoid leprosy
+Tularaemia
+Typhoid fever
+Typhus fever
+Ureaplasma urealyticum
+Veillonella
+Vibrio cholerae
+Vibrio parahaemolyticus
+Vibrio vulnificus
+Vincent angina
+Whipple disease
+Whooping cough
+Yaws
+Yersinia enterocolitica
+Yersinia pestis
+Yersinia pseudotuberculosis

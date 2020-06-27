@@ -1,0 +1,666 @@
+10th cranial nerve disorder
+11th cranial nerve disorder
+12th cranial nerve disorder
+1st cranial nerve disorder
+3rd cranial nerve disorder
+4th cranial nerve disorder
+5th cranial nerve disorder
+6th cranial nerve disorder
+7th cranial nerve disorder
+9th cranial nerve disorder
+Abdominal distension
+Abdominal mass
+Abdominal pain
+Ablepharon
+Abnormal dermatoglyphics
+Abnormal heart sounds
+Abnormal reflexes
+Abnormal splitting of heart sounds
+Abnormal sputum
+Absence of uvula
+Absent eyebrows
+Acneiform lesions
+Acute confusional state
+Adrenal cortex hyperplasia
+Akathisia
+Alopecia
+Amaurosis fugax
+Ambiguous genitalia
+Ambiguous genitalia (female genotype)
+Ambiguous genitalia (male genotype)
+Amblyopia
+Amenorrhoea
+Anagen effluvium
+Angioid streaks of the retina
+Aniridia
+Anisocoria
+Anisometropia
+Ankle pain
+Anosmia
+Apex beat displaced
+Apex beat sustained
+Apex beat tapping
+Aphakia
+Arachnodactyly
+Argyll Robertson pupil
+Arthrogryposis
+Arthropathy
+Ascites
+Asterixis
+Ataxia
+Auditory hallucinations
+Back pain
+Beau lines
+Bitot spots
+Bleeding tendency
+Blepharoptosis
+Blepharospasm
+Blue nails
+Blue sclerae
+Body odour
+Bone pain
+Brachycephaly
+Brachydactyly
+Bradykinesia
+Brain failure
+Breast hypertrophy
+Breast hypoplasia
+Breast lump
+Breath sounds bronchial
+Breath sounds reduced
+Breathlessness
+Bronchospasm
+Bruxism
+Bulbar palsy
+Bursitis
+Cachexia
+Café au lait spots
+Calcinosis cutis
+Calf pain
+Camptocormia
+Camptodactyly
+Canthal hypertelorism
+Cardiac arrest
+Carpal tunnel syndrome
+Cataplexy
+Cataracts
+Causalgia
+Central precocious puberty
+Cerebellar syndrome
+Cerebral ventriculomegaly
+Cerebrospinal fluid leak
+Cerebrospinal fluid otorrhea
+Cervical lymphadenopathy
+Chancre
+Charcot joints
+Cheilosis
+Chemosis of conjunctiva
+Cherry red spot on macula
+Chest examination abnormal
+Chest expansion poor
+Chest hyperinflation
+Chest pain
+Chest wall percussion dull
+Chest wall percussion hyperresonant
+Cheyne-Stokes respirations
+Chloasma
+Choreoathetosis
+Chorioretinitis
+Choroidal neovascularization
+Chromatopsia
+Chromhidrosis
+Chronic brain failure
+Chylous ascites
+Chyluria
+Cicatricial alopecia
+Ciliary muscle spasm
+Claudication of limb
+Clinodactyly
+Clitoromegaly
+Coarse hair
+Collodion membrane
+Colour vision impairment
+Conductive hearing loss
+Condylomata lata
+Conjunctivitis
+Constipation
+Contractures
+Contusion
+Coprolalia
+Corectopia
+Cornea guttata
+Corneal anaesthesia
+Corneal arcus
+Corneal erosion
+Corneal opacity
+Corneal thinning
+Cough
+Coxa valga
+Coxa vara
+Cranial nerve disorder
+Cranioschisis
+Cryptomenorrhea
+CSF rhinorrhoea
+Cubital tunnel syndrome
+Cubitus valgus
+Cushingoid facies
+Cushingoid habitus
+Cutaneous laxity
+Cutaneous nodules
+Cyanosis
+Cycloplegia
+Cytoid bodies
+Dacryoadenitis
+Dactylitis
+Darier sign
+Delayed fontanelle closure
+Delayed puberty
+Dental discoloration
+Dental enamel hypoplasia
+Dermographia
+Diarrhoea
+Digital clubbing
+Diplopia
+Diplopia, binocular
+Diplopia, monocular
+Disproportionate short stature
+Distal muscle weakness
+Distal myopathy
+Dizzyness
+Dolichocephaly
+Dry eyes
+Dry skin
+Dysarthria
+Dysesthesia
+Dysmenorrhoea
+Dyspareunia
+Dysphagia
+Dysphasia
+Dysphonia
+Dysuria
+Ear pain
+Elbow pain
+Enophthalmos
+Enthesopathy
+Entropion of eyelid
+Episcleritis
+Epistaxis
+Erectile dysfunction
+Eruptive cutaneous xanthomata
+Erythema
+Erythema ab igne
+Erythema chronicum migrans
+Erythema gyratum repens
+Erythema marginatum
+Erythema multiforme
+Erythema neonatorum
+Erythema nodosum
+Erythrocyanosis
+Erythromelalgia
+Esotropia
+Eunuchoid habitus
+Exophthalmos
+Exostoses
+Exotropia
+External ophthalmoplegia
+Eye pain
+Eye red
+Eyelash abnormality
+Eyelash hypotrichia
+Facial asymmetry
+Facial oedema
+Facial pain
+Facies abnormality
+Faecal incontinence
+Falls
+Fasciculation
+Fatigue
+Female infertility
+First trimester PV bleed
+Fistula of intestine
+Fits
+Fixed split of second heart sound
+Fleischer-Kayser ring
+Flow murmur
+Follicular hyperkeratosis
+Foot pain
+Fourth heart sound
+Freckles
+Galactorrhoea-Hyperprolactinaemia
+Gastroesophageal reflux
+Gastrointestinal bleeding
+Genital prolapse
+Genital ulcers
+Genu recurvatum
+Genu valgum
+Genu varum
+Gigantism
+Gingival swelling
+Glossitis
+Glossoptosis
+Goitre
+Grey Turner sign
+Groin mass
+Gum pathology
+Gynaecomastia
+Habitus abnormality
+Haematuria
+Haemoptysis
+Haemothorax
+Hair abnormality
+Hair shaft nodule
+Hairy tongue
+Halitosis
+Hallucinations
+Hamman sign positive
+Hand and finger signs
+Hard retinal exudate
+Headache
+Hearing loss
+Heberden nodes
+Hemangioma
+Hematemesis
+Hematospermia
+Hemihypertrophy
+Hemosiderin deposition
+Hepatomegaly
+Heterochromic iris
+High arched palate
+Hip pain
+Hirsutism
+Hollenhorst plaque
+Homans' sign
+Horner syndrome
+Howship-Romberg sign
+Hydrocephalus
+Hyperacusis
+Hyperesthesia
+Hyperhidrosis
+Hyperkeratosis
+Hyperlacrimation
+Hypermetropia
+Hyperpigmentation
+Hyperreflexia
+Hypersalivation
+Hypertelorism, ocular
+Hypertension, systemic
+Hypertrichosis
+Hyphema
+Hypohidrosis
+Hypopigmentation
+Hyporeflexia
+Hypotension
+Hypotonia (skeletal muscle)
+Ichthyosis
+Incontinence
+Incontinence, urine
+Infertility
+Ingrowing nail
+Inguinal lymphadenopathy
+Intention tremor
+Intermenstrual PV bleed
+Internal ophthalmoplegia
+Internuclear ophthalmoplegia
+Intraepidermal blistering
+Involuntary muscular movements
+Iris abnormality
+Jaccoud arthropathy
+Janeway spots
+Jaundice
+Joint hypermobility
+Jugular venous pressure raised
+Keratitis
+Keratoconus
+Keratoderma blenorrhagica
+Kernig sign positive
+Knee pain
+Koebner phenomenon
+Koilonychia
+Kyphosis
+Lacrimal gland enlarged
+Lagophthalmos
+Lanugo hair
+Larva migrans
+Laryngeal stenosis
+Latent tetany
+Leg pain
+Lens dislocation
+Lentiginosis
+Lesions on Blaschko lines
+Leuconychia
+Leukocoria
+Lhermitte sign
+Lichen planus
+Lichenoid dermatitis
+Ligament laxity
+Limb bone deformity
+Limb hypertrophy
+Limp
+Lingua plicata
+Lipodermatosclerosis
+Lipodystrophy
+Livedo reticularis
+Lower motor neurone lesion
+Lupoid rash
+Lymphadenopathy
+Lymphoedema
+Macrodontia
+Macroglossia
+Macrosomia
+Macrostomia
+Macrotia
+Maculopapular rash
+Maculopathy
+Malar hypoplasia
+Male infertility
+Male pattern baldness
+Marfanoid habitus
+Mastalgia
+Mastoiditis
+Maxillary hypoplasia
+Meconium
+Mee lines
+Megacolon
+Megencephaly
+Meningism
+Menorrhagia
+Metamorphopsia
+Metaphyseal dysplasia (phenotype)
+Microcephaly
+Microdontia
+Micrognathia
+Micromelia
+Microtia
+Midface hypoplasia
+Midline facial defect
+Miliaria
+Mononeuritis multiplex
+Mood alteration
+Motor neuropathy, peripheral
+Mouth and perioral abnormality
+Mucosal leucoplakia
+Mucosal neuromata
+Mucositis
+Muscle atrophy
+Muscle weakness
+Muscular hypertrophy
+Myalgia
+Mydriasis
+Myoclonus
+Myokymia
+Myotonia
+Nail abnormality
+Nail discoloration
+Nail pitting
+Nappy rash
+Nausea and vomiting
+Neck lump
+Neck pain
+Neck stiffness
+Neck veins distended
+Necrolytic migratory erythema
+Neurofibromata
+Night blindness
+Nikolsky sign
+Nipple discharge
+Nodular lesion
+Nose hypoplasia
+Nose signs
+Nystagmus
+Obesity
+Ocular larva migrans
+Ocular movement abnormality
+Oedema
+Oedema (localised)
+Olfactory hallucinations
+Oligodactyly
+Oliguria
+Onychogryphosis
+Onycholysis
+Onychorrhexis
+Ophthalmoplegia
+Opisthotonus
+Opsoclonus
+Optic atrophy
+Optic disc drusen
+Optic nerve disorder
+Oral ulceration
+Orgasm loss
+Osler nodes
+Osmotic diuresis
+Osteochondrodysplasia
+Otitis externa
+Otorrhoea
+Pachyonychia
+Pain
+Pain insensitivity
+Palmar erythema
+Palmar pits
+Palmoplantar keratosis
+Palpitations
+Papillitis
+Papilloedema
+Paradoxic split of second heart sound
+Paresthesiae
+Parinaud ophthalmoplegia
+Parkinsonism
+Paronychia
+Parotid gland enlargement
+Pathergy
+Pectus carinatum
+Pectus excavatum
+Pelvic mass
+Penis pain
+Periorbital oedema
+Periorbital swelling
+Peripheral nerves palpable
+Peripheral neuropathy
+Peripheral vasoconstriction
+Peripheral vasodilation
+Pes cavus
+Photophobia
+Photopsia
+Photosensitivity of skin
+Physiologic vertigo
+Pica
+Pigmentary retinopathy
+Piloerection
+Plagiocephaly
+Platonychia
+Platyspondyly
+Pneumaturia
+Poikiloderma
+Poikiloderma atrophicans vasculare
+Poliosis
+Polydactyly
+Polyphagia
+Polyuria
+Posterior corneal pigmentation
+Post-menopausal PV bleed
+Postpartum haemorrhage, primary
+Postpartum haemorrhage, secondary
+Postural hypotension
+Precocious pseudopuberty
+Precocious puberty
+Premature aging
+Prepubertal PV bleed
+Pretibial myxoedema
+Priapism
+Proportionate short stature
+Proximal muscle weakness
+Proximal myopathy
+Pruritus
+Pruritus ani
+Pseudoainhum
+Pseudoathetosis
+Puerperal pyrexia
+Pulse abnormalities
+Pulse pressure widened
+Pulses asymmetrical
+Pulsus alternans
+Pulsus bisferiens
+Pulsus paradoxus
+Pupil abnormalities
+Pupillary athetosis
+Pupillary constriction
+Purpura
+Purpura fulminans
+PV bleeding
+Pyrexia
+Pyrexia of unknown origin
+Radial hypoplasia
+Radiculopathy
+Rapid up-stroke pulse
+Rash
+Raynaud phenomenon
+Rectocoele
+Rectovaginal fistula
+Reduced level of consciousness
+Relative afferent pupil defect
+Renal colic
+Renal enlargement
+Retinal detachment
+Retinal drusen
+Retinal haemorrhage
+Retinal macroaneurysm
+Retinal microaneurysms
+Retinal neovascularization
+Retinal pathology
+Retinal perforations
+Retinoschisis
+Retrocuspid papilla
+Rhinorrhoea
+Rib pain
+Ridged nails
+Rigidity
+Rigors
+Romana sign
+Roth spots
+Sabre tibia
+Saddle nose deformity
+Salivary gland enlargement
+Scaphocephaly
+Sclerodactyly
+Sclerosis of skin
+Scoliosis
+Scrotal mass
+Second trimester PV bleed
+Semen discoloration
+Sensorineural hearing loss
+Sensory ataxia
+Sensory neuropathy, peripheral
+Short stature
+Shoulder pain
+Sialectasia
+Situational syncope
+Skeletal deformity
+Skin discoloration
+Skin sclerosis
+Skin thinning
+Skin ulceration
+Skull bossing
+Skull deformity
+Slate grey skin
+Sleep disturbance
+Slow relaxing reflexes
+Slow rising pulse
+Spastic ataxia
+Speech disorders
+Spider naevi
+Spinal deformity
+Splenomegaly
+Splinter haemorrhages
+Squint
+Stomatitis
+Stool colour change
+Strabismus, concomitant
+Striae
+Striae gravidarum
+Stridor
+Subcutaneous nodules
+Subretinal neovascular membrane
+Subungual hyperkeratosis
+Sudamina
+Supernumerary teeth
+Suppurative otitis media
+Supranuclear ocular palsy
+Sweating abnormal
+Symbrachydactyly
+Syncope
+Syndactyly
+Synophrys
+Tactile hallucinations
+Tall stature
+Tarsal tunnel syndrome
+Taste disturbance
+Taurodontism
+Telangiectasia
+Telogen effluvium
+Tendinitis
+Tendon nodules
+Tendon xanthomata
+Tenesmus
+Testicular enlargement
+Tetany
+Third heart sound
+Third trimester PV bleed
+Thoracic deformity
+Throat sore
+Thrombophlebitis migrans
+Tic
+Tinnitus
+Tongue abnormality
+Tonic pupil
+Tooth abnormalities
+Tooth eruption delayed
+Tooth loss
+Toothache
+Tophus
+Torsion dystonia
+Torticollis
+Trachea displaced
+Tracheal shift away from lesion
+Tracheal shift towards lesion
+Tremor
+Trendelenburg gait
+Triangular face
+Trichiasis
+Trichorrhexis nodosa
+Trismus
+Tuberous xanthomata
+Uhthoff symptom
+Upper motor neurone lesion
+Urethritis
+Urinary frequency
+Urine color abnormal
+Urine retention
+Urogenital abnormalities
+Urticaria
+Uterine enlargement
+Uveitis
+Vaginal discharge
+Vaginismus
+Venous ulcer of leg
+Vertigo
+Vesiculo-bullous rash
+Vestibular pathology
+Vibration sense loss
+Virilism
+Visual hallucinations
+Visual impairment
+Vitreous floaters
+Vocal fremitus increased
+Vocal fremitus reduced
+Vulvovaginitis
+Warty lesion
+Waterhammer pulse
+Webbed neck
+Weight gain
+Weight loss
+Wide split of second heart sound
+Wooly hair
+Wrist pain
+Xanthelasma palpebrarum
+Xanthomata
+Xerostomia
+Yellow nails

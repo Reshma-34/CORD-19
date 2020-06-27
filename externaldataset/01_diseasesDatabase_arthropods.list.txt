@@ -1,0 +1,40 @@
+Amblyomma americanum
+Argasidae
+Demodex folliculorum
+Dermacentor andersoni
+Dermacentor variabilis
+Ixodes scapularis
+Ixodes ticks
+Mouse mite
+Phthiriasis
+Sarcoptes scabiei
+Spider bite
+Ticks
+Trombiculid mite
+Aedes mosquito
+Anopheles mosquito species
+Blackfly
+Chrysops
+Chrysops discalis
+Cimex lectularius
+Cochliomyia
+Cordylobia anthropophaga
+Culex mosquito
+Cuterebrosis
+Dermatobia hominis
+Glossina morsitans
+Haemagogus mosquito
+Mansonia mosquito species
+Myiasis
+Panstrongylus
+Pediculus humanus capitis 
+pediculosis
+Pediculus humanus corporis
+Pulex irritans
+Rhipicephalus microplus
+Rhodnius prolixus
+Riverine tsetse
+Sandfly species
+Triatomine bug
+Tungiasis
+

@@ -1,0 +1,1122 @@
+EGF-EGFR-RAS-ERK
+BCR-ABL fusion kinase to RAS-ERK
+Mutation-activated KIT to RAS-ERK
+Duplication or mutation-activated FLT3 to RAS-ERK
+Mutation-activated MET to RAS-ERK
+Amplified EGFR to RAS-ERK
+EML4-ALK fusion kinase to RAS-ERK
+RET-PTC fusion kinase to RAS-ERK
+TRK fusion kinase to RAS-ERK
+Mutation-inactivated PTCH1 to Hedgehog
+Mutation-activated FGFR3 to RAS-ERK
+Mutation-activated KRAS/NRAS to ERK
+Mutation-activated BRAF to ERK
+Mutation-activated EGFR to RAS-ERK
+PDGF-PDGFR-RAS-ERK
+PDGF-overexpression to RAS-ERK
+Mutation-activated SMO to Hedgehog
+Amplified PDGFR to RAS-ERK
+FGF-FGFR-RAS-ERK
+Amplified FGFR to RAS-ERK
+EGF-ERBB2-RAS-ERK
+ERBB2-overexpression to RAS-ERK
+EGF-EGFR-PLCG-ERK
+Mutation-activated EGFR to PLCG-ERK
+EML4-ALK fusion kinase to PLCG-ERK
+EGF-EGFR-PLCG-CAMK
+Amplified EGFR to PLCG-CAMK
+PDGF-PDGFR-PLCG-CAMK
+Amplified PDGFR to PLCG-CAMK
+EGF-EGFR-RAS-PI3K
+Duplication or mutation-activated FLT3 to RAS-PI3K
+Mutation-activated KRAS/NRAS to PI3K
+EGF-EGFR-PI3K
+ERBB2-overexpression to PI3K
+Amplified EGFR to PI3K
+Mutation-activated EGFR to PI3K
+FGF-FGFR-PI3K
+Amplified FGFR to PI3K
+PDGF-PDGFR-PI3K
+Amplified PDGFR to PI3K
+EGFR-overexpression to RAS-ERK
+EGFR-overexpression to PI3K
+HGF-MET-PI3K
+Mutation-activated MET to PI3K
+KITLG-KIT-PI3K
+Mutation-activated KIT to PI3K
+EML4-ALK fusion kinase to PI3K
+BCR-ABL fusion kinase to PI3K
+Mutation-activated PI3K to PI3K
+Amplified PI3K to PI3K
+Deleted PTEN to PI3K
+Mutation-inactivated PTEN to PI3K
+Cytokine-Jak-STAT
+Duplication or mutation-activated FLT3 to Jak-STAT
+BCR-ABL fusion kinase to Jak-STAT
+Wnt
+Mutation-inactivated APC to Wnt
+Mutation-activated CTNNB1 to Wnt
+FZD7-overexpression to Wnt
+LRP6-overexpression to Wnt
+CDH1-reduced expression to beta-catenin
+Hedgehog
+TGF-beta
+Mutation-inactivated TGFBR2 to TGF-beta
+Mutation-inactivated SMAD2 to TGF-beta
+MDM2-p21-Cell cycle G1/S
+Deleted p14(ARF) to p21-cell cycle G1/S
+Amplified MDM2 to p21-cell cycle G1/S
+p16-Cell cycle G1/S
+Mutation-inactivated p16(INK4a) to p16-cell cycle G1/S
+Deleted p16(INK4a) to p16-cell cycle G1/S
+Amplified CDK4 to cell cycle G1/S
+Mutation-activated CDK4 to cell cycle G1/S
+Loss of RB1 to cell cycle G1/S
+Mutation-inactivated RB1 to cell cycle G1/S
+Mutation-inactivated p14(ARF) to p21-cell cycle G1/S
+HRAS-overexpression to ERK
+Mutation-activated HRAS to ERK
+HIF-1
+Loss of VHL to HIF-1
+Mutation-inactivated VHL to HIF-1
+Loss of NKX3-1 to PI3K
+Androgen receptor
+Amplified AR to androgen receptor
+Mutation-activated AR to androgen receptor
+Notch
+NOTCH-overexpression to Notch
+Amplified MYC to p15-cell cycle G1/S
+Amplified MYC to cell cycle G1/S
+p15-Cell cycle G1/S
+p27-Cell cycle G1/S
+Amplified MYC to p27-cell cycle G1/S
+Loss of CDKN1B to p27-cell cycle G1/S
+EGF-Jak-STAT
+ERBB2-overexpression to EGF-Jak-STAT
+EGF-EGFR-RAS-RASSF1
+Loss of RASSF1 to RAS-RASSF1
+Intrinsic apoptotic pathway
+Mutation-inactivated BAX to apoptotic pathway
+BCL2-overexpression to intrinsic apoptotic pathway
+DCC-apoptotic pathway
+Loss of DCC to DCC-apoptotic pathway
+EGF-EGFR-RAS-RalGDS
+Mutation-activated KRAS to RalGDS
+EML4-ALK fusion kinase to Jak-STAT
+AML1-EVI1 fusion to TGF-beta
+EVI-1 overexpression to TGF-beta
+AML1-ETO fusion to transcriptional activtion
+PML-RARA fusion to transcriptional activtion
+PLZF-RARA fusion to transcriptional activtion
+AML1-ETO fusion to CEBPA-mediated transcription
+AML1-ETO fusion to PU.1-mediated transcription
+PML-RARA fusion to transcriptional repression
+PLZF-RARA fusion to transcriptional repression
+Mutation-inactivated TP53 to transcription
+Mutation-inactivated RUNX1 to transcription
+E2A-PBX1 fusion to transcriptional activation
+TEL-AML1 fusion to transcriptional repression
+MLL-AF4 fusion to transcriptional activation
+MLL-ENL fusion to transcriptional activation
+LMO2-rearrangement to transcriptional activation
+LMO2-rearrangement to transcriptional repression
+Amplified REL to transcription
+IGH-MAF fusion to transcriptional activation
+IGH-MMSET fusion to transcriptional activation
+PAX8-PPARG fusion to PPARG-mediated transcription
+PRCC-TFE3 fusion to transcriptional activation
+TMPRSS2-ERG fusion to transcriptional activation
+TMPRSS2-ERG fusion to transcriptional repression
+TMPRSS2-ETV5 fusion to transcriptional activation
+Amplified MYCN to transcriptional activation
+Amplified MYCN to transcriptional repression
+EWSR1-FLI1 fusion to transcriptional activation
+EWSR1-FLI1 fusion to transcriptional repression
+EWSR1-ERG fusion to transcriptional activation
+EWSR1-ATF1 fusion to transcriptional activation
+EWSR1-WT1 fusion to transcriptional activation
+EWSR1-NR4A3
+FUS-DDIT3 fusion to CEBPB-mediated transcription
+FUS-DDIT3 fusion to NFKB-mediated transcription
+PAX3-FOXO1 fusion to transcriptional activation
+SYT-SSX fusion to transcriptional repression
+ASPL-TFE3 fusion to transcriptional activation
+TLX1 rearrangement to transcriptional repression
+Extrinsic apoptotic pathway
+Crosstalk between extrinsic and intrinsic apoptotic pathways
+EGF-EGFR-PLCG-calcineurin
+TLR3-IRF7
+TLR3-IRF3
+Type I IFN
+TNF-NFKB
+CXCR-GNB/G-ERK
+CCR/CXCR-GNB/G-PI3K-RAC
+CXCR-GNB/G-PI3K-AKT
+Autophagy-vesicle nucleation
+Autophagy-vesicle elongation
+KSHV vGPCR to GNB/G-ERK
+KSHV vGPCR to GNB/G-PI3K-AKT
+KSHV K1 to PI3K
+KSHV K1 to RAS-ERK
+KSHV vIRF1/2 to TLR3-IRF3
+KSHV vIRF3 to TLR3-IRF7
+KSHV KIE1/2 to TLR3-IRF7
+KSHV vBCL2 to crosstalk between extrinsic and intrinsic apoptotic pathways
+KSHV vIAP to crosstalk between extrinsic and intrinsic apoptotic pathways
+KSHV vFLIP to crosstalk between extrinsic and intrinsic apoptotic pathways
+KSHV vIRF1/3 to p21-cell cycle G1/S
+KSHV vCyclin to cell cycle G1/S
+KSHV LANA to p21-cell cycle G1/S
+KSHV LANA to cell cycle G1/S
+KSHV vFLIP to NFKB
+KSHV K15 to PLCG-calcineurin
+KSHV K15 to TNF-NFKB
+KSHV vFLIP to TNF-NFKB
+KSHV LANA to Wnt
+KSHV vFLIP to autophagy-vesicle elongation
+KSHV vBCL2 to autophagy-vesicle nucleation
+KSHV vGPCR to GNB/G-PI3K-JNK
+KSHV K1 to PI3K-NFKB
+KSHV K1 to PLCG-calcineurin
+KSHV vIL-6 to Jak-STAT
+IGF-IGFR-PI3K-NFKB
+KSHV MIR1/2 to antigen processing and presentation by MHC class I molecules
+KSHV MIR2 to cell surface molecule-endocytosis
+IL1-IL1R-p38
+KSHV Kaposin B to p38
+IL1-IL1R-JNK
+KSHV K15 to JNK
+KSHV vCCL2 to CCR
+KSHV Kaposin to alternative pathway of complement activation
+KITLG-KIT-RAS-ERK
+HGF-MET-RAS-ERK
+FLT3LG-FLT3-RAS-ERK
+FLT3LG-FLT3-RAS-PI3K
+FLT3LG-FLT3-STAT5
+PTEN-PIP3-AKT
+HTLV-1 Tax to spindle assembly checkpoint signaling
+HTLV-1 Tax to spindle assembly checkpoint signaling
+EBV EBNA1 to p53-mediated transcription
+EBV EBNALP RBP-Jk-mediated transcription
+EBV EBNA2 to RBP-Jk-mediated transcription
+EBV EBNA3A/3B/3C to RBP-Jk-mediated transcription
+TGFA-EGFR-PLCG-PKC
+TGFA-overexpression to PLCG-PKC
+TGFA-EGFR-RAS-ERK
+TGFA-overexpression to RAS-ERK
+TGFA-EGFR-PI3K
+TGFA-overexpression to PI3K
+IGF-IGF1R-RAS-ERK
+IGF2-IGF1R-PI3K
+IGF2-overexpression to RAS-ERK
+IGF2-overexpression to PI3K
+IGF1R-overexpression to RAS-ERK
+IGF1R-overexpression to PI3K
+Telomerase activity
+TERT-overexpression to telomerase activity
+TGFBR2-reduced expression to TGF-beta
+Mutation-inactivated AXIN to Wnt
+KEAP1-NRF2
+Mutation-inactivated KEAP1 to KEAP1-NRF2
+Mutation-activated NRF2 to KEAP1-NRF2
+HGF-overexpression to RAS-ERK
+HGF-overexpression to PI3K
+MET-overexpression to RAS-ERK
+MET-overexpression to PI3K
+CDX2-overexpression to transcriptional activation
+CDX2-overexpression to transcriptional repression
+Amplified ERBB2 to RAS-ERK
+Amplified ERBB2 to PI3K
+CDKN1B-reduced expression to p27-cell cycle G1/S
+Amplified CCNE to cell cycle G1/S
+TGFBR1-reduced expression to TGF-beta
+Loss of CDH1 to beta-catenin
+Mutation-inactivated CDH1 to beta-catenin
+Amplified MET to RAS-ERK
+Amplified MET to PI3K
+KSHV vIRF2 to IFN
+EBV EBNA3C to intrinsic apoptotic pathway
+EBV EBNA3C to p53-mediated transcription
+EBV EBNA3C to p27-Cell cycle G1/S
+EBV LMP1 to NFKB
+EBV LMP2A to PI3K
+HBV HBx to PI3K
+HBV HBx to RIG-I-like receptor
+HCV core to TNF-NFKB
+HCV Core to IFN
+HCV NS3/4A to RIG-I-like receptor
+HCV NS5A to PI3K
+HCV NS5A to oligoadenylate synthetase (OAS)/RNase L pathway
+HCV NS5A to RAS-ERK
+Amplified CCND1 to cell cycle G1/S
+EGF-overexpression to RAS-ERK
+EREG-EGFR-RAS-ERK
+EREG-overexpression to RAS-ERK
+AREG-EGFR-RAS-ERK
+AREG-overexpression to RAS-ERK
+EGF-overexpression to PI3K
+EREG-EGFR-PI3K
+EREG-overexpression to PI3K
+AREG-EGFR-PI3K
+AREG-overexpression to PI3K
+Nuclear-initiated estrogen
+ESR1-positive to nuclear-initiated estrogen
+PTH-PTH1R-PKA
+Mutation-inactivated GNAS to PTH-PTH1R-PKA
+Mutation-inactivated MEN1 to transcription
+CaSR-PTH
+Mutation-inactivated CASR to CasR-PTH
+GCM2-mediated transcription
+Mutation-activated GCM2 to transcription
+Mutation-inactivated GCM2 to transcription
+Mutation-inactivated PTH to degradation
+ACTH-cortisol
+CYP11B1-CYP11B2 fusion to ACTH-cortisol
+Mutation-inactivated MC2R to ACTH-cortisol
+Mutation-inactivated MRAP to ACTH-cortisol
+Angiotensin-aldosterone
+Mutation-activated CACNA1D/H to angiotensin-aldosterone
+Mutation-activated KCNJ5 to angiotensin-aldosterone
+Mutation-inactivated ATP1A1 to angiotensin-aldosterone
+Mutation-inactivated ATP2B3 to angiotensin-aldosterone
+SF-1-mediated transcription
+Mutation-inactivated DAX1 to SF-1-mediated transcription
+Mutation-inactivated SF-1 to transcription
+Cortisone reduction
+Mutation-inactivated HED11B1 to cortisone reduction
+NADPH generation
+Mutation-inactivated H6PD to NADPH production
+Transport of cortisol
+Mutation-inactivated CBG to transport of cortisol
+Mutation-inactivated AIP to AhR-mediated transcription
+Mutation-inactivated CDKN1B to p27-cell cycle G1/S
+AhR
+EGFR-ERK-ACTH
+Mutation-activated USP8 to EGFR-ERK-ACTH
+Mutation-activated PRKACA to ACTH-cortisol
+Mutation-activated GNAS to ACTH-cortisol
+Mutation-inactivated PRKAR1A to ACTH-cortisol
+Mutation-inactivated PDE11A/PDE8B to ACTH-cortisol
+CRHR-PKA-ACTH
+Mutation-inactivated RASD1 to CRHR-PKA-ACTH
+Mutation-activated GNAS to CRHR-PKA-ACTH
+Mutation-inactivated PRKAR1A to CRHR-PKA-ACTH
+Cleavage of prelamin A
+Mutation-caused aberrant LMNA to cleavage of prelimin A
+BANF1-mediated nuclear assembly
+Mutation-caused aberrant BANF1 to BANF1-mediated nuclear assembly
+Vesicular uptake of lipoproteins
+Mutation-caused aberrant APOB to vesicular uptake of lipoproteins
+Mutation-inactivated LDLR to vesicular uptake of lipoproteins
+Mutation-inactivated LDLRAP1 to vesicular uptake of lipoproteins
+PCSK9-mediated LDLR degradation
+Mutation-activated PCSK9 to PCSK9-mediated LDLR degradation
+Steroid hormone biosynthesis, progesterone to cortisol/cortisone
+Steroid hormone biosynthesis, progesterone to aldosterone
+The Scribble/Dlg/Lgl polarity module
+HPV E6 to the Scribble/Dlg/Lgl polarity module
+MAGI-PTEN
+HPV E6 to MAGI-PTEN
+CRB3-Pals1-PATJ complex
+HPV E6 to CRB3-Pals1-PATJ complex
+HPV E6 to TLR-IRF3
+p300-p21-Cell cycle G1/S
+HPV E6 to p300-p21-Cell cycle G1/S
+HPV E6 to p300-p21-Cell cycle G1/S
+HPV E6 to extrinsic apoptotic pathway
+HPV E6 to extrinsic apoptotic pathway
+HPV E6 to extrinsic apoptotic pathway
+HPV E6 to PTEN-PIP3-AKT
+HPV E6 to PTEN-PIP3-AKT
+PP2A-AKT
+HPV E7 to PP2A-AKT
+HPV E6 to MTOR
+HPV E6 to p21-cell cycle G1/S
+HPV E7 to p27-cell cycle G1/S
+HPV E7 to p27-cell cycle G1/S
+HPV E7 to cell cycle G1/S
+HPV E5 to p21-cell cycle G1/S
+Antigen processing and presentation by MHC class I molecules
+HPV E5 to antigen processing and presentation by MHC class I molecules
+HPV E7 to cell cycle G1/S
+HPV E5 to EGFR-PI3K
+HPV E5 to EGFR-RAS-ERK
+HPV E5 to PDGFR-PI3K
+HPV E5 to PDGFR-RAS-ERK
+Pyruvate generation
+HPV E7 to pyruvate generation
+HPV E7 to p300-p21-Cell cycle G1/S
+HPV E6 to NFX1-mediated transcription
+TNF-IRF1
+HPV E7 to TNF-IRF1
+HPV E7 to TBP1-mediated transcription
+HPV E6 to IFN
+HPV E6 to IFN
+HPV E7 to IFN
+HPV E6 to Notch
+HPV E6 to Notch
+HPV E6 to Notch
+HPV E6 to intrinsic apoptotic pathway
+HPV E6 to intrinsic apoptotic pathway
+HCMV gB to PDGFR-PI3K
+HCMV gB to PDGFR-RAS-ERK
+HCMV IE1-72/IE2-86 to PI3K
+HCMV UL38 to MTOR
+HCMV IE1-72 to transcription
+EGF-EGFR-PI3K-NFKB
+HCMV gB to EGFR-PI3K-NFKB
+HCMV gB to EGFR-RAS-ERK
+ITGA/B-RhoA
+HCMV gH to ITGA/B-RhoA
+cGAS-STING
+HCMV UL82 to cGAS-STING
+HCMV UL26 to NFKB
+HCMV IE2-86 to TNF-NFKB
+CCR2-GNB/G-PI3K-NFKB
+HCMV US28 to GNB/G-PI3K-NFKB
+CXCR4-GNAQ-PLCB/G-calcineurin
+HCMV US28 to GNAQ-PLCB/G-calcineurin
+CX3CR1-GNAI-AC-PKA
+HCMV US28 to GNAI-AC-PKA
+CXCR4-GNA12/13-Rho
+HCMV US28 to GNA12/13-Rho
+HCMV UL33 to GNAQ-PLCB/G-calcineurin
+LPAR-GNB/G-Rho
+HCMV UL33 to GNB/G-Rho
+DRD1-GNAS-AC-PKA
+HCMV UL33 to GNAS-AC-PKA
+HCMV UL33 to GNAI-AC-PKA
+CXCR4-GNB/G-PLCB-PKC
+HCMV US27 to CXCR4-GNB/G-PLCB-PKC
+IL10-Jak-STAT
+HCMV IL10 to IL10-JAK-STAT
+HCMV US6 to antigen processing and presentation by MHC class I molecules
+HCMV US2/11 to antigen processing and presentation by MHC class I molecules
+HCMV US3/10 to antigen processing and presentation by MHC class I molecules
+HCMV IE2-86 to p21-cell cycle G1/S
+HCMV IE2-86 to p21-cell cycle G1/S
+HCMV IE2-86 to cell cycle G1/S
+HCMV IE1-72 to cell cycle G1/S
+HCMV pp71 to cell cycle G1/S
+HCMV UL36 to crosstalk between extrinsic and intrinsic apoptotic pathways
+HCMV UL37x1 to crosstalk between extrinsic and intrinsic apoptotic pathways
+HCMV vCXCL to CXCR-GNB/G-PI3K-AKT
+CCR5-GNB/G-PLCB/G-PKC
+HCMV UL22A to CCR5-GNB/G-PLCB/G-PKC
+CXCR4-GNAI-PI3K-BAD
+HIV gp120 to CXCR4-GNAI-PI3K-BAD
+HIV gp120 to CXCR4-GNAQ-PLCB/G-calcineurin
+CXCR4-GNB/G-RAC
+HIV gp120 to CXCR4-GNB/G-RAC
+TLR2/4-NFKB
+HIV Tat to TLR2/4-NFKB
+HIV Vpu to TLR2/4-NFKB
+TLR2/4-MAPK
+HIV Nef to TLR2/4-MAPK
+HIV Vpu/Vif/Vpr to cGAS-STING
+HIV gp120 to TNF-NFKB
+HIV Nef to TNF-NFKB
+HIV Vpr/Nef/Tat to TNF-NFKB
+TNF-p38
+HIV Tat/Nef to TNF-p38
+TNF-JNK
+HIV Vpr/Tat to TNF-JNK
+HIV Tat/Nef to crosstalk between extrinsic and intrinsic apoptotic pathways
+HIV Tat/Nef to crosstalk between extrinsic and intrinsic apoptotic pathways
+HIV Tat to intrinsic apoptotic pathway
+HIV Tat to intrinsic apoptotic pathway
+HIV Nef to intrinsic apoptotic pathway
+HIV Vpr to intrinsic apoptotic pathway
+HIV Vpr to intrinsic apoptotic pathway
+CDC25-Cell cycle G2/M
+HIV Vpr to CDC25-cell cycle G2M
+HIV Vpr to cell cycle G2M
+HIV Vpr to CDC25-cell cycle G2M
+WEE1-Cell cycle G2/M
+HIV Vpr to WEE1-cell cycle G2M
+HIV Nef to antigen processing and presentation by MHC class I molecules
+KSHV vCCL1/2/3 to CCR
+Alternative pathway of complement activation
+Deleted DMD to dystrophin-associated protein complex
+EBV BPLF1 to TLR2/4-NFKB
+EBV BPLF1 to TLR2/4-NFKB
+EBV BPLF1 to TLR2/4-NFKB
+RIG-I-IRF7/3
+EBV BGLF4 to RIG-I-like receptor
+EBV LMP2A/2B to IFN
+EBV LMP1 to IFN
+EBV BGLF4 to IFN
+EBV BHRF1 to intrinsic apoptotic pathway
+EBV BHRF1 to intrinsic apoptotic pathway
+EBV BHRF1 to intrinsic apoptotic pathway
+EBV BHRF1 to crosstalk between extrinsic and intrinsic apoptotic pathways
+EBV BARF1 to intrinsic apoptotic pathway
+EBV BNLF2a to antigen processing and presentation by MHC class I molecules
+EBV BILF1 to antigen processing and presentation by MHC class I molecules
+EBV BZLF1 to p53-mediated transcription
+EBV EBNA3C to p27-Cell cycle G1/S
+EBV EBNA3C to cell cycle G1/S
+EBV EBNA3C to cell cycle G1/S
+EBV LMP1 to PI3K
+EBV LMP1 to Jak-STAT
+BCR-PLCG-Calcineurin
+EBV LMP2A to BCR
+HTLV-1 p30II to c-myc-mediated transcription
+HTLV-1 p12 to calcineurin
+HTLV-1 p12 to Jak-STAT
+HTLV-1 p12 to antigen processing and presentation by MHC class I molecules
+Spindle assembly checkpoint signaling
+HTLV-1 Tax to p16-cell cycle G1/S
+HTLV-1 Tax to p15-cell cycle G1/S
+MDM2-p21-Cell cycle G1/S
+HTLV-1 Tax to p21-cell cycle G1/S
+HTLV-1 Tax to p21-cell cycle G1/S
+ATR-p21-Cell cycle G2/M
+HTLV-1 Tax to p21-cell cycle G2/M
+HTLV-1 Tax to EGFR-PI3K-NFKB
+HTLV-1 Tax to PTEN-PIP3-AKT
+HTLV-1 Tax to TNF-JNK
+HTLV-1 Tax to NFKB
+CD40-NFKB
+HTLV-1 Tax to CD40-NFKB
+HTLV-1 Tax to TGF-beta
+HTLV-1 Tax to NFY-mediated transcription
+HTLV-1 Tax to SRF-mediated transcription
+HTLV-1 Tax to CREB-mediated transcription
+HTLV-1 Tax to E47-mediated transcription
+HTLV-1 Tax to c-myc-mediated transcription
+Mutation-activated EGFR to RAS-ERK
+Mutation-activated EGFR to PI3K
+Oligoadenylate synthetase (OAS)/RNase L pathway
+HCV NS3/4A to TLR3-IRF3
+HCV NS3/4A to TLR3-IRF3
+HCV Core to ERK
+HCV Core to ERK
+HCV NS5A to p21-cell cycle G1/S
+HCV Core to p21-cell cycle G1/S
+HCV NS3 to p21-cell cycle G1/S
+HCV Core to p21-cell cycle G1/S
+HCV NS5A to extrinsic apoptotic pathway
+HCV NS5A to TNF-NFKB
+HCV NS3 to crosstalk between extrinsic and intrinsic apoptotic pathways
+HCV Core to crosstalk between extrinsic and intrinsic apoptotic pathways
+HCV core to extrinsic apoptotic pathway
+HCV core to RXRA/PPARA-mediated transcription
+HCV core to RXRA/LXRA-mediated transcription
+HBV HBx to TGF-beta
+HBV HBx to Egr-mediated transcription
+HBV HBx to Crosstalk between extrinsic and intrinsic apoptotic pathways
+HBV HBx to Crosstalk between extrinsic and intrinsic apoptotic pathways
+HBV HBx to p53-mediated transcription
+MDM2-p21-Cell cycle G1/S
+HBV HBx to cell cycle G1/S
+Ca2+-PYK2-RAS-ERK
+HBV HBx to Ca2+-PYK2-RAS-ERK
+HBV HBx to RAS-ERK
+HBV HBx to RAS-ERK
+EGF-EGFR-RAS-JNK
+HBV HBx to JNK
+HBV HBx to CREB-mediated transcription
+HBV HBx to ERK
+CXCL12-CXCR4-PKC-ERK
+HBV LHBs to PKC-ERK
+HBV HBx to Jak-STAT
+HBV HBeAg to TLR2/4-NFKB
+HBV HBeAg to TLR2/4-NFKB
+HBV HBs to TLR2/4-MAPK
+HBV pol to TLR3-IRF3
+TLR4-IRF3/7
+HBV HBe to TLR4-IRF3/7
+HBV HBe to TLR4-IRF3/7
+HBV HBe to TLR2/4-NFKB
+HBV HBe to TLR2/4-NFKB
+HBV pol to IFN
+LIGHT-HVEM-NFKB
+HSV gD to HVEM-NFKB
+HSV ICP0 to TLR2/4-NFKB
+HSV US3 to TLR2/4-NFKB
+TLR3-NFKB
+HSV US3 to TLR3-NFKB
+HSV US11 to RIG-I-like receptor
+HSV UL36USP to RIG-I-like receptor
+HSV ICP34.5 to TBK1
+HSV US3 to IRF3
+HSV UL41 to cGAS-STING
+HSV ICP0 to cGAS-STING
+PKR-eIF2alpha
+HSV ICP34.5 to PKR-eIF2alpha
+HSV US11 to PKR-eIF2alpha
+HSV US11 to oligoadenylate synthetase (OAS)/RNase L pathway
+HSV ICP27 to IFN
+HSV UL41/UL13 to IFN
+HSV UL41 to IFN
+HSV UL41 to IFN
+HSV ICP6 to extrinsic apoptotic pathway
+HSV ICP0 to crosstalk between extrinsic and intrinsic apoptotic pathways
+HSV ICP47 to antigen processing and presentation by MHC class I molecules
+IGF-IGF1R-PI3K
+HSV VP11/12 to PI3K
+HSV US3 to MTOR
+HSV US3 to intrinsic apoptotic pathway
+Nuclear export of mRNA
+HSV ICP27 to Nuclear export of mRNA
+HSV VP16 to Oct-1-mediated transcription
+HSV gC to alternative pathway of complement activation
+Antigen processing and presentation by MHC class II molecules
+HSV gB to antigen processing and presentation by MHC class II molecules
+HSV ICP0 to p53-mediated transcription
+Urea cycle
+ARG1 deficiency in urea cycle
+ASL deficiency in urea cycle
+ASS deficiency in urea cycle
+OTC deficiency in urea cycle
+CPS1 deficiency in urea cycle
+Obligate allosteric activation of CPS1 by NAG
+NAGS deficiency in urea cycle
+Heme biosynthesis
+FECH deficiency in heme biosynthesis
+PPOX deficiency in heme biosynthesis
+CPOX deficiency in heme biosynthesis
+UROD deficiency in heme biosynthesis
+UROS deficiency in heme biosynthesis
+HMBS deficiency in heme biosynthesis
+ALAD deficiency in heme biosynthesis
+ALAS2 deficiency in heme biosynthesis
+Dermatan sulfate degradation
+HYAL1 deficiency in dermatan sulfate degradation
+ARSB deficiency in dermatan sulfate degradation
+IDUA deficiency in dermatan sulfate degradation
+IDS deficiency in dermatan sulfate degradation
+Heparan sulfate degradation
+GNS deficiency in heparan sulfate degradation
+GUSB deficiency in heparan sulfate degradation
+NAGLU deficiency in heparan sulfate degradation
+HGSNAT deficiency in heparan sulfate degradation
+SGSH deficiency in heparan sulfate degradation
+IDUA deficiency in heparan sulfate degradation
+IDS deficiency in heparan sulfate degradation
+Keratan sulfate degradation
+GNS deficiency in keratan sulfate degradation
+GLB1 deficiency in keratan sulfate degradation
+GALNS deficiency in keratan sulfate degradation
+Mannose type O-glycan biosynthesis, POMT to POMK
+LARGE1 deficiency in mannose type O-glycan biosynthesis
+B4GAT1 deficiency in mannose type O-glycan biosynthesis
+TMEM5 deficiency in mannose type O-glycan biosynthesis
+FKRP deficiency in mannose type O-glycan biosynthesis
+FKTN deficiency in mannose type O-glycan biosynthesis
+POMK deficiency in mannose type O-glycan biosynthesis
+ISPD deficiency in mannose type O-glycan biosynthesis
+B3GALNT2 deficiency in mannose type O-glycan biosynthesis
+POMGNT2 deficiency in mannose type O-glycan biosynthesis
+POMT1 deficiency in mannose type O-glycan biosynthesis
+POMT2 deficiency in mannose type O-glycan biosynthesis
+POMGNT1 deficiency in mannose type O-glycan biosynthesis
+Hydrolysis of lactosylceramide
+GBA deficiency in lactosylceramide hydrolysis
+Saposin stimulation of GBA and GALC
+Loss of saposin stimulation
+Hydrolysis of galabiosylceramide
+GLA deficiency in galabiosylceramide hydrolysis
+GALC deficiency in galactosylceramide hydrolysis
+Hydrolysis of galactosylceramide sulfate
+ARSA deficiency in galactosylceramide sulfate hydrolysis
+Hydrolysis of sphingomyelin
+SMPD1 deficiency in sphingolipid degradation
+ASAH1 deficiency in sphingolipid degradation
+GLA mutation
+N-Glycan precursor biosynthesis, ALG7 to ALG11
+STT3A deficiency in N-glycan precursor biosynthesis
+STT3B deficiency in N-glycan precursor biosynthesis
+DDOST deficiency in N-glycan precursor biosynthesis
+ALG8 deficiency in N-glycan precursor biosynthesis
+ALG6 deficiency in N-glycan precursor biosynthesis
+ALG9 deficiency in N-glycan precursor biosynthesis
+ALG12 deficiency in N-glycan precursor biosynthesis
+ALG3 deficiency in N-glycan precursor biosynthesis
+ALG11 deficiency in N-glycan precursor biosynthesis
+ALG2 deficiency in N-glycan precursor biosynthesis
+ALG1 deficiency in N-glycan precursor biosynthesis
+ALG13 deficiency in N-glycan precursor biosynthesis
+ALG7 deficiency in N-glycan precursor biosynthesis
+N-Glycan precursor biosynthesis, Glc-6P to Man-P-Dol
+DPM1 deficiency in N-glycan precursor biosynthesis
+DPM2 deficiency in N-glycan precursor biosynthesis
+DPM3 deficiency in N-glycan precursor biosynthesis
+PMM2 deficiency in N-glycan precursor biosynthesis
+MPI deficiency in N-glycan precursor biosynthesis
+N-Glycan precursor biosynthesis, Glc-6P to UDP-Glu
+PGM1 deficiency in N-glycan precursor biosynthesis
+N-Glycan precursor biosynthesis, farnesy-PP to P-Dol
+DOLK deficiency in N-glycan precursor biosynthesis
+SRD5A3 deficiency in N-glycan precursor biosynthesis
+NUS1 deficiency in N-glycan precursor biosynthesis
+Glucosylceramide synthesis in GBA deficiency
+N-Glycan precursor biosynthesis, ALG3 to ALG9
+N-Glycan precursor biosynthesis, ALG6 to OST
+N-Glycan precursor biosynthesis, P-Dol to Glc-P-Dol
+CD80/CD86-CD28-PI3K
+MV F/H to CD28-PI3K
+MV V to RIG-I-IRF7/3
+MV N to RIG-I-IRF7/3
+MV V/C to RIG-I-IRF7/3
+RIG-I-NFKB
+MV V/P/C to RIG-I-NFKB
+TLR7/9-IRF7
+MV V to TLR7/9-IRF7
+MV P to TLR2/4-NFKB
+MV V/P to IFN
+MV V/P/C to IFN
+MV V to p73-mediated transcription
+MV C to PKR-eIF2alpha
+HV P to p53-mediated transcription
+Mannose type O-glycan biosynthesis, Rib-ol-5P to CDP-Rib-ol
+Mannose type O-glycan biosynthesis, FKTN to LARGE
+Tyrosine biosynthesis
+PAH deficiency in tyrosine biosynthesis
+Tetrahydrobiopterin biosynthesis, GTP to BH4
+PTS deficiency in tetrahydrobiopterin biosynthesis
+GCH1 deficiency in tetrahydrobiopterin biosynthesis
+Tetrahydrobiopterin biosynthesis, BH4OH to BH4
+QDPR deficiency in tetrahydrobiopterin biosynthesis
+PCBD1 deficiency in tetrahydrobiopterin biosynthesis
+Tyrosine degradation
+FAH deficiency in tyrosine degradation
+HPD deficiency in tyrosine degradation
+TAT deficiency in tyrosine degradation
+HGD deficiency in tyrosine degradation
+Glycogen biosynthesis
+GBE1 deficiency in glycogen biosynthesis
+GYS1 deficiency in glycogen biosynthesis
+GYS2 deficiency in glycogen biosynthesis
+GYG1 deficiency in glycogen biosynthesis
+Glycogen degradation
+G6PC deficiency in glycogen degradation
+Glycogen degradation (amylase)
+AGL deficiency in glycogen degradation
+PYGM deficiency in glycogen degradation
+PYGL deficiency in glycogen degradation
+IAV NS1 to oligoadenylate synthetase (OAS)/RNase L pathway
+IAV NS1 to PKR-eIF2alpha
+IAV NP to PKR-eIF2alpha
+IAV NS1 to RIG-I-like receptor
+IAV NS1 to RIG-I-like receptor
+IAV NS1 to RIG-I-like receptor
+IAV NS1 to RIG-I-like receptor
+Glycolysis
+IAV PB1-F2/PB2 to RIG-I-like receptor
+LDHA deficiency in glycolysis
+IAV PB1-F2/PB2 to RIG-I-like receptor
+ENO3 deficiency in glycolysis
+IAV NS1 to PI3K
+PGAM2 deficiency in glycolysis
+IAV NS1 to IFN
+ALDOA deficiency in glycolysis
+PFKM deficiency in glycolysis
+IAV M2 to cell cycle G1/S
+NLRP3 Inflammasome
+IAV NS1 to NLRP3 inflammasome
+IAV HA to ERK
+IAV PB1-F2 to intrinsic apoptotic pathway
+IAV NS1 to nuclear export of mRNA
+GAA deficiency in glycogen degradation
+GPI-anchor biosynthesis
+PGAP1 deficiency in GPI-anchor biosynthesis
+PIGT deficiency in GPI-anchor biosynthesis
+PIGO deficiency in GPI-anchor biosynthesis
+PIGN deficiency in GPI-anchor biosynthesis
+PIGV deficiency in GPI-anchor biosynthesis
+PIGM deficiency in GPI-anchor biosynthesis
+PIGW deficiency in GPI-anchor biosynthesis
+PIGL deficiency in GPI-anchor biosynthesis
+PIGA deficiency in GPI-anchor biosynthesis
+PIGY deficiency in GPI-anchor biosynthesis
+Steroid hormone biosynthesis, cholesterol to prognenolone/progesterone
+CYP11B1 deficiency in steroid hormone biosynthesis
+CYP21A2 deficiency in steroid hormone biosynthesis
+CYP17A1 deficiency in steroid hormone biosynthesis
+HSD3B2 deficiency in steroid hormone biosynthesis
+CYP11A1 deficiency in steroid hormone biosynthesis
+beta-Oxidation, acyl-CoA synthesis
+HADHB deficiency in beta-oxidation
+HADH deficiency in beta-oxidation
+ACADM deficiency in beta-oxidation
+ACADVL deficiency in beta-oxidation
+ACADS deficiency in beta-oxidation
+CPT2 deficiency in beta-oxidation
+CPT1A deficiency in beta-oxidation
+HSD11B2 deficiency in steroid hormone biosynthesis
+CYP11B2 deficiency in steroid hormone biosynthesis
+HADHA deficiency in beta-oxidation
+beta-Oxidation, peroxisome, VLCFA
+HSD17B4 deficiency in beta-oxidation
+ACOX1 deficiency in beta-oxidation
+beta-Oxidation, peroxisome, bile acid
+SCP2 deficiency in beta-oxidation
+AMACR deficiency in beta-oxidation
+TSH-TG
+Mutation-inactivated TSH to TSH-TG
+Mutation-inactivated TSHR to TSH-TG
+Mutation-inactivated PAX8 to TSH-TG
+Transport of iodide
+Mutation-inactivated NIS to transport of iodide
+Mutation-inactivated PDS to transport of iodide
+Mutation-inactivated TPO to iodide organification/coupling reactions
+Mutation-inactivated TG to iodide organification/coupling reactions
+Deiodination of MIT and DIT
+Mutation-inactivated IYD to deiodination of MIT and DIT
+TSH-DUOX2-TG
+Mutation-inactivated DUOX2 to TSH-DUOX2-TG
+DUOX2-generated H2O2 production
+Mutation-inactivated DUOXA2 to DUOX2-generated H2O2 production
+Mutation-activated TSHR to TSH-TG
+Thyroid hormone
+Mutation-inactivated THRA to thyroid hormone
+Mutation-inactivated THRB to thyroid hormone
+Mutation-inactivated SLC16A2 to thyroid hormone
+HSD17B4 deficiency in beta-oxidation
+Iodide organification/coupling reactions
+beta-Oxidation
+Bile acid biosynthesis
+ACOX2 deficiency in bile acid biosynthesis
+AMACR deficiency in bile acid biosynthesis
+CYP27A1 deficiency in bile acid biosynthesis
+AKR1D1 deficiency in bile acid biosynthesis
+HSD3B7 deficiency in bile acid biosynthesis
+CYP7B1 deficiency in bile acid biosynthesis
+Transport of carnitine
+Mutation-inactivated SLC22A5 to transport of carnitine
+Transport of L-palmitoylcarnitine
+Mutation-inactivated SLC25A20 to transport of L-palmitoylcarnitine
+Transport of glucose 6-phosphate
+Mutation-inactivated SLC37A4 to transport of glucose 6-phosphate
+Transport of glucose
+Mutation-inactivated SLC2A2 to transport of glucose
+N-Glycan biosynthesis
+B4GALT1 deficiency in N-glycan biosynthesis
+MGAT2 deficiency in N-glycan biosynthesis
+MOGS deficiency in N-glycan biosynthesis
+Transport of GDP-fucose
+Mutation-inactivated SLC35C1 to transport of GDP-fucose
+Transport of UDP-galactose
+Mutation-inactivated SLC35A2 to transport of UDP-galactose
+Transport of CMP-N-acetylneuraminate
+Mutation-inactivated SLC35A1 to transport of CMP-N-acetylneuraminate
+Transport of Man5GlcNAc2-PP-dolichol
+Mutation-inactivated RFT1 to transport of Man5GlcNAc2-PP-dolichol
+Branched-chain amino acids degradation
+HMGCL deficiency in leucine degradation
+AUH deficiency in leucine degradation
+MCCC1 deficiency in leucine degradation
+MCCC2 deficiency in leucine degradation
+IVD deficiency in leucine degradation
+BCKDHA deficiency in branched-chain amino acids degradation
+BCKDHB deficiency in branched-chain amino acids degradation
+DBT deficiency in branched-chain amino acids degradation
+DLD deficiency in branched-chain amino acids degradation
+Propanoyl-CoA metabolism
+MMUT deficiency in propanoyl-CoA metabolism
+MCEE deficiency in propanoyl-CoA metabolism
+PCCA deficiency in propanoyl-CoA metabolism
+PCCB deficiency in propanoyl-CoA metabolism
+Galactose degradation
+GALE deficiency in galactose degradation
+GALT deficiency in galactose degradation
+GALK1 deficiency in galactose degradation
+Leucine degradation
+Valine degradation
+ALDH6A1 deficiency in valine degradation
+HIBCH deficiency in valine degradation
+ACAD8 deficiency in valine degradation
+Isoleucine degradation
+HSD17B10 deficiency in isoleucine degradation
+ACADSB deficiency in isoleucine degradation
+Yersinia YopP/J to TLR2/4-NFKB
+Yersinia YopP/J to TLR2/4-NFKB
+Yersinia YopP/J to TLR2/4-NFKB
+Yersinia YopP/J to TLR2/4-MAPK
+Yersinia YopM to NLRP3 Inflammasome
+Yersinia YopK to NLRP3 Inflammasome
+Yersinia YopK to NLRC4 Inflammasome
+Yersinia YopM to Pyrin Inflammasome
+NLRC4 Inflammasome
+Pyrin Inflammasome
+KISS1-KISS1R-PLCB-PKC
+Mutation-inactivated KISS1 to KISS1-KISS1R-PLCB-PKC
+Mutation-inactivated KISS1R to KISS1-KISS1R-PLCB-PKC
+Mutation-activated KISS1R to KISS1-KISS1R-PLCB-PKC
+GnRH-GnRHR-PLCB-PKC
+Mutation-inactivated GnRH to GnRH-GnRHR-PLCB-PKC
+Mutation-inactivated GnRHR to GnRH-GnRHR-PLCB-PKC
+Mutation-inactivated FGF8 to RAS-ERK
+Mutation-inactivated FGF17 to RAS-ERK
+Mutation-inactivated FGFR1 to RAS-ERK
+PROK-PRKR-Gi-ERK
+Mutation-inactivated PROK2 to PROK-PRKR-Gi-ERK
+Mutation-inactivated PROKR2 to PROK-PRKR-Gi-ERK
+TAC3-TACR3-PLC-PKC
+Mutation-inactivated TAC3 to TAC3-TACR3-PLC-PKC
+Mutation-inactivated TACR3 to TAC3-TACR3-PLC-PKC
+LHCGR-GNAS-PKA
+Mutation-activated LHCGR to LHCGR-GNAS-PKA
+Mutation-inactivated ESR1 to nuclear-initiated estrogen
+Hypoxanthine oxidation
+XDH deficiency in hypoxanthine oxidation
+Molybdenum cofactor biosynthesis
+MOCOS deficiency in molybdenum cofactor biosynthesis
+GPHN deficiency in molybdenum cofactor biosynthesis
+MOCS2 deficiency in molybdenum cofactor biosynthesis
+MOCS1 deficiency in molybdenum cofactor biosynthesis
+Pyrimidine degradation
+Glutathione biosynthesis
+GPX1 deficiency in glutathione biosynthesis
+GSS deficiency in glutathione biosynthesis
+GCLC deficiency in glutathione biosynthesis
+OPLAH deficiency in glutathione biosynthesis
+Glutathione reduction
+NADP+ reduction
+G6PD deficiency in NADP+ reduction
+GH-Jak-STAT
+Mutation-inactivated GH to GH-Jak-STAT
+Mutation-inactivated GHR to GH-Jak-STAT
+GHRHR-PKA-GH
+Mutation-inactivated GHRHR to GHRHR-PKA-GH
+Mutation-activated GNAS to GHRHR-PKA-GH
+Mutation-inactivated IGF1 to RAS-ERK
+Mutation-inactivated IGF1R to RAS-ERK
+AVP-V2R-PKA
+Mutation-inactivated AVP to AVP-V2R-PKA
+Mutation-activated AVPR2 to AVP-V2R-PKA
+TRH-TRHR-PLCB-PKC
+Mutation-inactivated TRHR to PLCB-PKC
+PRL-JAK-STAT
+Mutation-inactivated PRLR to PRL-JAK-STAT
+FSHR-GNAS-PKA
+Mutation-inactivated FSHB to FSHR-GNAS-PKA
+Glucocorticoid receptor
+Mutation-inactivated NR3C1 to glucocorticoid receptor
+Escherichia Tir to TLR2/4-MAPK
+Escherichia/Shigella NleE/OspZ to TNF-NFKB
+Escherichia NleB to TNF-NFKB
+Escherichia NleC to TNF-NFKB
+Escherichia NleD to TNF-JNK
+Escherichia NleD to TNF-p38
+Escherichia NleH1 to TNF-NFKB
+Escherichia NleA to NLRP3 inflammasome
+Non-canonical inflammasome
+Escherichia NleF to non-canonical inflammasome
+Escherichia NleB1 to crosstalk between extrinsic and intrinsic apoptotic pathways
+Escherichia NleF to extrinsic apoptotic pathway
+Escherichia NleH to intrinsic apoptotic pathway
+Escherichia NleF to intrinsic apoptotic pathway
+NOD-NFKB
+Shigella IpaH9.8 to NOD-NFKB
+Shigella OspG to TNF-NFKB
+Shigella IpaH4.5 to TNF-NFKB
+Shigella OspI to TNF-NFKB
+Shigella IpaH1.4/2.5 to TNF-NFKB
+Shigella IpaJ to cGAS-STING
+Shigella Ipa4.5 to cGAS-STING
+Shigella IpaH7.8 to NLRP3 Inflammasome
+Shigella IpaB to NLRC4 Inflammasome
+Escherichia/Salmonella/Shigella FimA to crosstalk between extrinsic and intrinsic apoptotic pathways
+mGluR1-TRPC3
+Mutation-activated GRM1 to mGluR1-TRPC3
+Mutation-inactivated PRKCG to mGluR1-TRPC3
+Mutation-activated PRKCG to mGluR1-TRPC3
+Mutation-caused abberant ATXN2/3 to mGluR5-Ca2+ -apoptotic pathway
+Mutation-activated ITPR1 to mGluR1-TRPC3
+ITPR1-reduced expression to mGluR1-TRPC3
+Mutation-caused aberrant SPTBN2 to mGluR1-TRPC3
+Mutation-activated TRPC3 to mGluR1-TRPC3
+Mutation-inactivated ATXN3 to autophagy-vesicle nucleation
+RELN-VLDLR-PI3K
+DAB1-overexpression to RELN-VLDLR-PI3K
+RORA-mediated transcription
+Mutation-caused aberrant ATXN1 to RORA-mediated transcription
+VGCC-Ca2+ -apoptotic pathway
+Mutation-activated CACNA1A to VGCC-Ca2+ -apoptotic pathway
+Mutation-inactivated CACNA1A to VGCC-Ca2- -apoptotic pathway
+Transport of calcium
+Mutation-caused aberrant PDYN to transport of calcium
+Transport of potassium
+Mutation-inactivated KCNC3 to transport of potassium
+Transport of potassium
+Mutation-inactivated KCND3 to transport of potassium
+Retrograde axonal transport
+Mutation-caused aberrant Htt to retrograde axonal transport
+Anterograde axonal transport
+Mutation-caused aberrant Htt to anterograde axonal transport
+Mutation-caused aberrant Htt to REST-mediated transcriptional repression
+Mutation-caused aberrant Htt to CREB-mediated transcription
+Mutation-caused aberrant Htt to p53-mediated transcription
+Mutation-caused aberrant Htt to extrinsic apoptotic pathway
+mGluR5-Ca2+ -apoptotic pathway
+Mutation-caused aberrant Htt to mGluR5-Ca2+ -apoptotic pathway
+Mutation-caused aberrant Htt to VGCC-Ca2+ -apoptotic pathway
+Mutation-caused aberrant Htt to transport of calcium
+Electron transfer in Complex II
+Mutation-caused aberrant Htt to electron transfer in Complex II
+Electron transfer in Complex III
+Mutation-caused aberrant Htt to electron transfer in Complex III
+Mutation-caused aberrant Htt to TNF-JNK
+Mutation-caused aberrant Htt to autophagy-vesicle nucleation
+AGE-RAGE
+Electron transfer in Complex I
+Mutation-caused aberrant Abeta to AGE-RAGE
+Mutation-caused aberrant Abeta to electron transfer in Complex I
+Electron transfer in Complex IV
+Mutation-caused aberrant Abeta to electron transfer in Complex IV
+mAChR-Ca2+ -apoptotic pathway
+Mutation-caused aberrant Abeta to mAchR-Ca2+ -apoptotic pathway
+Mutation-caused aberrant Abeta to mGluR5-Ca2+ -apoptotic pathway
+Mutation-caused aberrant Abeta to transport of calcium
+Mutation-caused aberrant Abeta to VGCC-Ca2+ -apoptotic pathway
+Mutation-caused aberrant Abeta to crosstalk between extrinsic and intrinsic apoptotic pathways
+Mutation-caused aberrant Abeta to VGCC-Ca2+ -apoptotic pathway
+Mutation-caused aberrant PSEN to mGluR5-Ca2+ -apoptotic pathway
+Mutation-caused aberrant PSEN1 to mGluR5-Ca2+ -apoptotic pathway
+PERK-ATF4
+Mutation-caused aberrant PSEN1 to PERK-ATF4
+IRE1a-XBP1
+Mutation-caused aberrant PSEN1 to IRE1a-XBP1
+IRE1a-JNK
+Mutation-caused aberrant Abeta to IRE1a-JNK
+ATF4-mediated transcription
+Mutation-caused aberrant PSEN1 to ATF4-mediated transcription
+Mutation-caused aberrant PSEN1 to anterograde axonal transport
+Mutation-caused aberrant Abeta to anterograde axonal transport
+First-generation tyrosine kinase inhibitor to BCR-ABL fusion
+Second/third-generation tyrosine kinase inhibitor to BCR-ABL fusion
+First-generation tyrosine kinase inhibitor to ALK fusion
+Second/third-generation tyrosine kinase inhibitor to ALK fusion
+First/second-generation tyrosine kinase inhibitor to EGFR mutation
+Third-generation tyrosine kinase inhibitor to EGFR mutation
+Kinase inhibitor to BRAF mutation
+Kinase inhibitor to MEK downstream of BRAF mutation
+Tyrosine kinase inhibitor to HER2 overexpression/amplification
+Replacement of deficient GALNS
+CPS1 activator for deficient NAGS
+Replacement of deficient IDUA
+Replacement of deficient IDS
+Replacement of deficient ARSB
+Replacement of deficient GLA
+Pharmacological chaperone of amenable GLA mutation
+Replacement of deficient GBA
+UGCG inhibitor for deficient GBA
+Replacement of cofactor BH4 for deficient QDPR
+HPD inhibitior to downstream of deficinent FAH
+Replacement of deficient GAA
+Replacement of deficient GUSB
+PI3K inhibitor to gain-of-function mutated PIK3CA
+ERK
+PI3K
+Other RAS
+Other MAPK
+WNT
+NOTCH
+HH
+TGFB
+JAK-STAT
+Calcium
+TLR
+IFN
+TNF
+CXCR
+HIF-1
+KEAP1-NRF2
+NR
+MHC presentation
+Autophagy
+Cell cycle G1/S
+Apoptosis
+Telomerase activity
+Transcription
+Colorectal cancer
+Gastric cancer
+Pancreatic cancer
+Hepatocellular carcinoma
+Renal cell carcinoma
+Bladder cancer
+Non-small cell lung cancer
+Small cell lung cancer
+Melanoma
+Basal cell carcinoma
+Breast cancer
+Endometrial cancer
+Prostate cancer
+Glioma
+Thyroid cancer
+Acute myeloid leukemia
+Chronic myeloid leukemia
+Calcium
+Potassium transport
+Unfolded protein response (UPR)
+Autophagy
+Apoptosis
+PI3K
+TNF
+AGE-RAGE
+Oxidative phosphorylation
+Microtubule-based transport
+Transcription
+Alzheimer disease
+Huntington disease
+Spinocerebellar ataxia
+CRH-ACTH-cortisol
+Cushing syndrome
+Angiotensin-aldosterone
+Steroid hormone biosynthesis
+TRH-TSH-TH
+CaSR-PTH
+KISS1-GnRH-LH/FSH-E2
+APOB-LDLR
+Glycogen metabolism
+Galactose degradation
+beta-Oxidation in mitochondria
+beta-Oxidation in peroxisome
+Bile acid biosynthesis
+Valine, leucine and isoleucine degradation
+Urea cycle
+Phenylalanine and tyrosine metabolism
+Glutathione biosynthesis
+Molybdenum cofactor biosynthesis
+Heme biosynthesis
+Sphingolipid degradation
+Glycosaminoglycan degradation
+N-Glycan biosynthesis
+O-Glycan biosynthesis
+GPI-anchor biosynthesis
+MAPK
+PI3K
+WNT
+NOTCH
+TGFB
+JAK-STAT
+Calcium
+TLR
+NLR
+RIG-I
+CGAS-STING
+OAS/RNase L pathway
+PKR-eIF2alpha
+Complement activation
+IFN
+TNF
+Chemokine
+MHC presentation
+Autophagy
+Cell cycle
+Apoptosis
+Cytoskeletal regulation
+Human T-cell leukemia virus 1
+Human immunodeficiency virus type 1
+Measles virus
+Influenza A virus
+Hepatitis B virus
+Hepatitis C virus
+Herpes simplex virus 1
+Human cytomegalovirus
+Kaposi sarcoma-associated herpesvirus
+Epstein-Barr virus
+Human papillomavirus

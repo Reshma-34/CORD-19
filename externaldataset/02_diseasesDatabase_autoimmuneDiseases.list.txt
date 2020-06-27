@@ -1,0 +1,107 @@
+Acquired factor VIII deficiency
+Acquired generalized lipodystrophy
+Alopecia areata
+Ankylosing spondylitis
+Anticardiolipin syndrome
+Antisynthetase syndrome
+Autoimmune adrenalitis
+Autoimmune hepatitis
+Autoimmune neutropenia
+Autoimmune oophoritis
+Autoimmune orchitis
+Autoimmune polyendocrine syndrome type 2
+Autoimmune polyendocrine syndrome type 3
+Autoimmune progesterone dermatitis
+Autoimmune sclerosing pancreatitis
+Balanitis xerotica obliterans
+Behcet disease
+Benign recurrent meningitis
+Brazilian pemphigus foliaceus
+Calcinosis-Raynaud-sclerodactyly-telangiectasia syndrome
+Calcinosis
+Caplan disease
+Churg-Strauss syndrome
+Cicatricial pemphigoid
+Crohn disease
+Degos disease
+Dermatitis herpetiformis
+Diabetes mellitus
+Discoid lupus erythematosus
+Dressler syndrome
+Drug-induced systemic lupus erythematosus
+Eaton-Lambert myasthenic syndrome
+Eosinophilic fasciitis
+Eosinophilic pustular folliculitis
+Epidermolysis bullosa acquisita
+Evans syndrome
+Goodpasture syndrome
+Granulomatosis with polyangiitis
+Graves' disease
+Hashimoto thyroiditis
+Henoch-Schönlein purpura
+Hughes-Stovin syndrome
+Hypertrophic pulmonary osteo-arthropathy
+Hypoparathyroidism, autoimmune
+Idiopathic thrombocytopenic purpura
+Inclusion body myositis
+Inflammatory bowel disease
+Insulin antibodies
+Insulin receptor antibodies
+Juvenile chronic arthritis
+Kawasaki disease
+Lichen sclerosus et atrophicus
+Linear IgA disease
+Lymphocytic hypophysitis
+Lymphocytic mastitis
+Microscopic polyangiitis
+Mikulicz syndrome
+Miller Fisher syndrome
+Mixed connective tissue disease
+Morphoea
+Multiple sclerosis
+Myasthenia gravis
+Neuromyotonia, Acquired
+Non-radiographic axial spondyloarthritis
+Oculovestibuloauditory syndrome
+Palindromic rheumatism
+Paraneoplastic cerebellar degeneration
+Paraneoplastic pemphigus
+Paroxysmal cold haemoglobinuria
+Partial lipodystrophy
+Pemphigoid
+Pemphigus foliaceus
+Pemphigus vulgaris
+Pernicious anaemia
+Polyarteritis nodosa
+Polychondritis
+Polymyalgia rheumatica
+Polymyositis
+Polyradiculoneuropathy, chronic inflammatory
+Postpartum thyroiditis
+Primary autoimmune haemolytic anaemia
+Primary biliary cirrhosis
+Primary sclerosing cholangitis
+Psoriasis
+Pyoderma gangrenosum
+Rheumatic fever
+Rheumatoid 
+Rhizomelic pseudopolyarthritis
+Sarcoidosis
+Sicca syndrome
+Sneddon-Wilkinson disease
+Stiff man syndrome
+Still disease
+adult-onset
+Still disease
+juvenile-onset
+Susac syndrome
+Sympathetic ophthalmitis
+Systemic lupus erythematosus
+Systemic sclerosis
+Takayasu arteritis
+Temporal arteritis
+Thromboangiitis obliterans
+Ulcerative colitis
+Vitiligo
+Vogt-Koyanagi-Harada
+Watermelon stomach
